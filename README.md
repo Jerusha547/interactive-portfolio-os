@@ -1,8 +1,7 @@
-# 🖥️ Jerusha.dev — Portfolio OS
+# 🖥️ Jerusha.dev — Interactive Portfolio OS
 
 A macOS-style interactive portfolio built entirely in **pure HTML, CSS, and Vanilla JavaScript** — zero dependencies, zero frameworks, single file.
 
-🔗 **[Live Demo](https://jerusha547.github.io/portfolio-os)**
 
 ---
 
@@ -86,5 +85,4 @@ Or just double-click `index.html`.
 ## 👩‍💻 Author
 
 **Marumudi Martha Jerusha**  
-Full Stack Developer · CSE @ UCE Kakinada  
 [LinkedIn](https://www.linkedin.com/in/marumudi-martha-jerusha-2610aa301/) · [GitHub](https://github.com/Jerusha547) · [Email](mailto:marthajerushamarumudi7@gmail.com)
