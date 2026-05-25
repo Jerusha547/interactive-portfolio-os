@@ -2,7 +2,7 @@
 
 A macOS-style interactive portfolio built entirely in **pure HTML, CSS, and Vanilla JavaScript** — zero dependencies, zero frameworks, single file.
 
-
+🔗 **[Live Demo](https://jerusha547.github.io/portfolio-os)**
 ---
 
 ## ✨ Features
